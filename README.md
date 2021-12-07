@@ -31,6 +31,6 @@ Disclaimer: I couldn't get to work the edge.cuts layer in InkScape ([Same proble
 
 ## Sending the File
 
-Once I had everything finished. I prepared my Gerber files in KiCad, packed them inside a rar and ordered them to JLCPCB with standard 0.8mm thickness and everything else with default settings, HASL with lead, FR4 base, black PCB Color... 10 of them cost me 4$ + 20$ shipping, so a bit expensive for my taste. 
+Once I had everything finished. I prepared my Gerber files in KiCad, packed them inside a rar and ordered them to JLCPCB with standard 0.8mm thickness and everything else with default settings, HASL with lead, FR4 base, black PCB Color... 10 of them cost me $4 + $20 shipping ($2.40 a card), so a bit expensive for my taste. 
 
 In this repository you can find the [SVG file](https://github.com/Hanqaqa/PCB_Business_Card/blob/master/drawing.svg) I made in InkScape, as well as the [Gerber files](https://github.com/Hanqaqa/PCB_Business_Card/blob/master/Gerbers/Gerbers.rar) I made in KiCad and sent to JLCPCB. 
