@@ -9,9 +9,9 @@ There are more pictures on the Media folder.
 
 I have used 3 Open Source Programs in total:
 
-* [KiCad v5.1.6](https://www.kicad.org/) <- I have also tried up to version 6.0.9 and it works
-* [Inkscape v1.0.0](https://inkscape.org/) <- Very important. I could only get it to export with the 1.0.0 version
-* [Svg2Shenzen v0.2.18.7](https://github.com/badgeek/svg2shenzhen)
+* [KiCad v5.1.6](https://www.kicad.org/) <- I have also tried up to version 8.0.1 and it still works!
+* [Inkscape v1.0.0](https://inkscape.org/) <- I have tried up to version 1.3.2 and it still works!
+* [Svg2Shenzen v0.2.18.7](https://github.com/badgeek/svg2shenzhen) <- The project is discontinued but it still works!
 
 The instructions are very easy and clear on how to install each program.
 
@@ -27,7 +27,7 @@ After fiddling with Inkscape for a couple of hours (The GUI isn't that intuitive
 
 ![Final Composition](https://github.com/Hanqaqa/PCB_Business_Card/blob/master/Media/PCBLayers.png)
 
-Disclaimer: I couldn't get to work the edge.cuts layer in Inkscape ([Same problem as him](https://github.com/badgeek/svg2shenzhen/issues/119)), so since it was a simple 85.6x54 mm card with edges of 2.5 mm radius. I easily drew them in KiCad in the Edge.Cuts Layer.
+Disclaimer: ~~I couldn't get to work the edge.cuts layer in Inkscape ([Same problem as him](https://github.com/badgeek/svg2shenzhen/issues/119)), so since it was a simple 85.6x54 mm card with edges of 2.5 mm radius. I easily drew them in KiCad in the Edge.Cuts Layer.~~ In order to get the edge.cuts layer to work when you export to KiCad in the Svg2Shenzen extension. Tick the Flatten Bezier option.
 
 ## Sending the File
 
